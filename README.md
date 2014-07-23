@@ -3,7 +3,7 @@ Moking-PropertyModifier
 
 A property modifier for Mock object.
 
-[![Build Status](https://travis-ci.org/feedtailor/Moking-PropertyModifier?branch=master)](https://travis-ci.org/feedtailor/Moking-PropertyModifier)
+[![Build Status](https://travis-ci.org/feedtailor/Moking-PropertyModifier.png?branch=master)](https://travis-ci.org/feedtailor/Moking-PropertyModifier)
 
 
 Install
