@@ -12,7 +12,7 @@ feedtailor/mocking-property-modifier を composer.json に追加して、 `compo
 ```json
 {
   "require": {
-    "feedtailor/security-bundle": "dev-master"
+    "feedtailor/mocking-property-modifier": "dev-master"
   }
 }
 ```
